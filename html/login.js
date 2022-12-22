@@ -5,7 +5,7 @@ const button = document.getElementById('loginbutton');
 button.addEventListener('click', function handleClick() {
     let usr = document.getElementById('username').value
     let passwrd = document.getElementById('password').value
-    if (usr == "serap" && passwrd == "123") {
+    if (usr == "admin" && passwrd == "root") {
         // Redirect the user in 0.1 seconds
         setTimeout(function(){
             window.location.href = "/success.html";

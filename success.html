@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giriş Yaptınız</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="loggedin">
+        <h1>Başarıyla giriş yaptınız.</h1>
+        <button type="button" id="homepage">Ana sayfaya geri dön</button>
+        <script>
+            const button = document.getElementById('homepage');
+            button.addEventListener('click', function handleClick() {
+                setTimeout(function(){
+                    window.location.href = "/index.html";
+                }, 100);
+            });
+        </script>
+    </div>
+</body>
+</html>

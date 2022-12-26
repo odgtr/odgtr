@@ -1,5 +1,7 @@
 ### Okan's first game made in Python. (Fully completed on 28/09/2022)
 
+# --- It is recommended that you run this game on Visual Studio Code so you can see the color codes. ---
+
 # Version:
 version = "v1.0.0"
 

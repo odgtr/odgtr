@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 psw = input("What is the master password? ")
 
-if psw != "2000oksk123":
+if psw != "Sussybaka123":
     print("The password is incorrect.")
     exit()
 

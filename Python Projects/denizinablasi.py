@@ -1,6 +1,7 @@
 ### Okan's first game made in Python. (Fully completed on 28/09/2022)
 
 # --- It is recommended that you run this game on Visual Studio Code so you can see the color codes. ---
+# This game allows you to shape your adventure by giving you the ability to choose what you will do/say. The story will shape according to your selections.
 
 # Version:
 version = "v1.0.0"

@@ -23,4 +23,4 @@ Kullanıcı, Bot'u kullanarak bu Sözleşmenin şartlarına bağlı kalmayı kab
 
 **10. Bu Bot bir Supercell eseri değildir ve Supercell tarafından onaylanmamıştır.** Daha fazla bilgi için Supercell’in Hayran İçeriği politikasına bakın.
 
-Kullanıcı, Bot'u kullanarak bu Sözleşmeyi okuduğunu, anladığını ve hüküm ve koşullarına bağlı kalmayı kabul ettiğini kabul eder.
+Kullanıcı, Bot'u kullanarak bu Sözleşmeyi okuduğunu, anladığını ve hüküm ve koşullarına bağlı kalmayı kabul eder.
